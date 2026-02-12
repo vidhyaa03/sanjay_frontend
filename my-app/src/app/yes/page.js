@@ -57,7 +57,7 @@ export default function YesPage() {
       {/* Glass Card */}
       <div style={styles.card}>
         <h1 style={styles.title}>
-          She said YES <span style={{ fontSize: "52px" }}>💐</span>
+          Finally said YES <span style={{ fontSize: "52px" }}>💐</span>
         </h1>
 
         <p style={styles.subtitle}>
